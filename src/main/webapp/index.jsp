@@ -8,7 +8,7 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Este código mede o tempo de resposta de uma requisição, teste</a>
+<a href="hello-servlet">Hello</a>
 
 </body>
 </html>
